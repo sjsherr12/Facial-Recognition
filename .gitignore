@@ -1,0 +1,7 @@
+# Ignore all files in input_image except .keep
+app/application_data/input_image/*
+!app/application_data/input_image/.keep
+
+# Ignore all files in verification_images except .keep
+app/application_data/verification_images/*
+!app/application_data/verification_images/.keep
